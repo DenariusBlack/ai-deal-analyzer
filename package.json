@@ -1,0 +1,12 @@
+{
+  "name": "ai-deal-analyzer",
+  "version": "1.0.0",
+  "description": "AI-powered deal risk and margin analyzer using Claude API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0"
+  }
+}
